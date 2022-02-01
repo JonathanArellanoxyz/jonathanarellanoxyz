@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Jonathan
 #### I'm a web develepor
-I write and learn.
+I'm currently learning about phyton.
 
 Skills: PYTHON / HTML / CSS
 
